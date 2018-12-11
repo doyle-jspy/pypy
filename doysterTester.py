@@ -83,7 +83,6 @@ def start(argv):
     if '-h' in argv:
         useapp()
     if '-parse1' in argv:
-        print("input으로 받을예정")
         parse1()
     else:
         print('option ERR')
