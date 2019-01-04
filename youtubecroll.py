@@ -13,9 +13,3 @@ for li in lis :
 
 for result in lic[2:]:
     print(result)
-
-
-    
-
-
-
